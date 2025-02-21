@@ -1,2 +1,9 @@
 print("Mi nombre es", "Dracukeo", end=" ")
 print("Dracukeo el empalador")
+
+##--------------------------------------##
+print("Mi", "nombre", "es", "Dracukeo", sep="-")
+
+##--------------------------------------##
+print("Mi", "nombre", "es", "Dracukeo", sep= "-", end="*")
+print("Dracukeo", "el", "empalador", sep="*", end="\n")
