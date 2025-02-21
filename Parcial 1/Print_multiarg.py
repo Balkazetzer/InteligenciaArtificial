@@ -1,0 +1,1 @@
+print("Lista del anexo:\n", "Rizu", "Hendrixon", "Morgan")
